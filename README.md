@@ -23,19 +23,11 @@ The data has been sourced from CognoRise and processed using Microsoft Excel to 
 # Tools Used
 #### Power BI: For creating dashboards and interactive visualizations.
 #### Microsoft Excel: For initial data cleaning and preprocessing.
-# Usage Instructions
-# Clone this repository:
-#### git clone : https://github.com/Ravi10300/Data-Analyst-Project
+
 #### Open the .pbix file with Power BI Desktop (ensure it's installed from Power BI Desktop).
 #### Explore the dashboard by interacting with the charts and filters.
-# Project Screenshots
-### Dashboard Overview
-![Screenshot ](https://github.com/user-attachments/assets/3f1cfab0-37bd-4054-bd6b-0a4d48203b9f)
-## Using Filter
-![Screenshot-2](https://github.com/user-attachments/assets/ab86ba6d-a9dd-4429-b295-e24d3585cd0e)
 
-# Contact
-## For questions, suggestions, or feedback, feel free to contact me:
 
-### Email: ravishrivastav370@gmail.com
-### LinkedIn: https://www.linkedin.com/in/%F0%9D%90%91%F0%9D%90%9A%F0%9D%90%AF%F0%9D%90%A2-%F0%9D%90%8A%F0%9D%90%AE%F0%9D%90%A6%F0%9D%90%9A%F0%9D%90%AB-%F0%9D%90%92%F0%9D%90%A1%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AF%F0%9D%90%9A%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%9A%F0%9D%90%AF-5859b0246/
+
+
+
